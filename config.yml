@@ -1,0 +1,11 @@
+# configuration file for Reddit Roulette
+# limit sets the limit of posts to be downloaded
+limit: 20
+# subreddits is a python list containing subreddits you want to pull titles from
+subreddits: ['LifeProTips','todayilearned','Showerthoughts']
+# random subreddit from list above
+random: true
+# display only today's best tip
+topoftheday: false
+# put here an index of default subreddit
+defaultsub: 1
