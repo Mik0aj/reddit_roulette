@@ -4,6 +4,7 @@
 |  '--'.'| .-. :' .-. |' .-. |,--.'-.  .-'    |  '--'.'| .-. ||  ||  ||  || .-. :'-.  .-''-.  .-'| .-. : 
 |  |\  \ \   --.\ `-' |\ `-' ||  |  |  |      |  |\  \ ' '-' ''  ''  '|  |\   --.  |  |    |  |  \   --. 
 `--' '--' `----' `---'  `---' `--'  `--'      `--' '--' `---'  `----' `--' `----'  `--'    `--'   `----'
+
 Prints out the best posts from your favourite subreddit.
 
 To make this script work you'll need to change '#!/home/mikoaj/anaconda3/envs/redditbot/bin/python' to your python enviroment.
