@@ -7,5 +7,9 @@ subreddits: ['LifeProTips','todayilearned','Showerthoughts']
 random: true
 # display only today's best tip
 topoftheday: false
+# offline mode allows will always display stored posts randomly 
+offline: true
+# if enabled will append data.pkl with new posts
+allow_storage: false
 # put here an index of default subreddit
 defaultsub: 1
